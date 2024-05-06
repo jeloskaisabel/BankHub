@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\data\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\data\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\bankhubwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\bankhubwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|c:\\users\\jeloska isabel\\source\\repos\\bankhubwebservice\\bankhubwebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A206ED6F-4252-466C-851B-F91BED5CA77D}|BankHubWebService\\BankHubWebService.csproj|solutionrelative:bankhubwebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "BankHubWebService\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "BankHubWebService\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "BankHubWebService\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Models\\Persona.cs",
+              "RelativeToolTip": "BankHubWebService\\Models\\Persona.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:35:49.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext..cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Data\\ApplicationDbContext..cs",
+              "RelativeDocumentMoniker": "BankHubWebService\\Data\\ApplicationDbContext..cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Data\\ApplicationDbContext..cs",
+              "RelativeToolTip": "BankHubWebService\\Data\\ApplicationDbContext..cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:35:09.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankHubWebService.csproj",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\BankHubWebService.csproj",
+              "RelativeDocumentMoniker": "BankHubWebService\\BankHubWebService.csproj",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\BankHubWebService.csproj",
+              "RelativeToolTip": "BankHubWebService\\BankHubWebService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T14:34:29.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Program.cs",
+              "RelativeDocumentMoniker": "BankHubWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\Program.cs",
+              "RelativeToolTip": "BankHubWebService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:30:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\appsettings.json",
+              "RelativeDocumentMoniker": "BankHubWebService\\appsettings.json",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\source\\repos\\BankHubWebService\\BankHubWebService\\appsettings.json",
+              "RelativeToolTip": "BankHubWebService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T14:25:59.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

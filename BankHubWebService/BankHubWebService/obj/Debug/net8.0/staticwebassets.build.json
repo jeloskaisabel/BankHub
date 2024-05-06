@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5S8XOuT0RZBqYVx0NWuGD1Dr0D6NYS5Z1rneTfomt2E=",
+  "Source": "BankHubWebService",
+  "BasePath": "_content/BankHubWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

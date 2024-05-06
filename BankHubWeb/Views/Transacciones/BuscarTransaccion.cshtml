@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Buscar Transacción";
+}
+
+<h1>Buscar Transacción por ID</h1>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+<form asp-action="BuscarTransaccion" method="post">
+    <div class="form-group">
+        <label for="id">ID de Transacción:</label>
+        <input type="text" class="form-control" id="id" name="id" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+<div>
+    <a asp-action="Index">Volver a la lista</a>
+</div>

@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\transacciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\transacciones\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\transacciones\\buscartransaccion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\transacciones\\buscartransaccion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\models\\transaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:models\\transaccione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\models\\cuentasbancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:models\\cuentasbancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\controllers\\cuentasbancariascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:controllers\\cuentasbancariascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\buscarcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\buscarcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\transacciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\transacciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\buscarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\buscarpersona.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\models\\bdjeloskacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:models\\bdjeloskacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\createviaapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\createviaapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\createviaapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\createviaapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\cuentasbancarias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\cuentasbancarias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|c:\\users\\jeloska isabel\\documents\\bankhubweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B3396E3-777A-4E8B-B8F6-2522A8ACF31A}|BankHubWeb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transacciones\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\Details.cshtml",
+              "RelativeToolTip": "Views\\Transacciones\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:04:37.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "Controllers\\PersonasController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAswMAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:41:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaccione.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\Transaccione.cs",
+              "RelativeDocumentMoniker": "Models\\Transaccione.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\Transaccione.cs",
+              "RelativeToolTip": "Models\\Transaccione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:03:28.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CuentasBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\CuentasBancaria.cs",
+              "RelativeDocumentMoniker": "Models\\CuentasBancaria.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\CuentasBancaria.cs",
+              "RelativeToolTip": "Models\\CuentasBancaria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:17:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:43:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Details.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:09:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:17:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\TransaccionesController.cs",
+              "RelativeToolTip": "Controllers\\TransaccionesController.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAswAoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:39:20.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuscarTransaccion.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\BuscarTransaccion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transacciones\\BuscarTransaccion.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\BuscarTransaccion.cshtml",
+              "RelativeToolTip": "Views\\Transacciones\\BuscarTransaccion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T16:57:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CuentasBancariasController.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\CuentasBancariasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CuentasBancariasController.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\CuentasBancariasController.cs",
+              "RelativeToolTip": "Controllers\\CuentasBancariasController.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAAAB8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:38:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T23:28:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Index.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:08:34.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuscarCuenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\BuscarCuenta.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\BuscarCuenta.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\BuscarCuenta.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\BuscarCuenta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T07:43:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transacciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Transacciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transacciones\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T16:07:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuscarPersona.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\BuscarPersona.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\BuscarPersona.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\BuscarPersona.cshtml",
+              "RelativeToolTip": "Views\\Personas\\BuscarPersona.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:16:01.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Create.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:59:40.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:23:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BdjeloskaContext.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\BdjeloskaContext.cs",
+              "RelativeDocumentMoniker": "Models\\BdjeloskaContext.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Models\\BdjeloskaContext.cs",
+              "RelativeToolTip": "Models\\BdjeloskaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:19:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T22:21:37.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T21:46:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:15:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-28T21:21:45.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwB8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T22:39:59.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateViaApi.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\CreateViaApi.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\CreateViaApi.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\CreateViaApi.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\CreateViaApi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T17:07:57.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwDQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:12:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateViaApi.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\CreateViaApi.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\CreateViaApi.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\CreateViaApi.cshtml",
+              "RelativeToolTip": "Views\\Personas\\CreateViaApi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T17:48:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Personas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Personas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Personas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:13:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:41:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CuentasBancarias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\CuentasBancarias\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CuentasBancarias\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T14:08:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:41:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\JELOSKA ISABEL\\Documents\\BankHubWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:42:43.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿@model BankHubWeb.Models.Transaccione
+
+@{
+    ViewData["Title"] = "Crear Transacción";
+}
+
+<h2>Crear Transacción</h2>
+
+<form asp-action="CreateTransaccionViaApi" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="CuentaBancariaId" class="control-label"></label>
+        <select asp-for="CuentaBancariaId" class="form-control" asp-items="ViewBag.CuentasBancarias"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TipoTransaccion" class="control-label"></label>
+        <input asp-for="TipoTransaccion" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Monto" class="control-label"></label>
+        <input asp-for="Monto" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Volver a la lista de transacciones</a>
+</div>
